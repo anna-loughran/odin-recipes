@@ -1,4 +1,15 @@
 * {
-    background-color: orange;
+    background-color: lightblue;
     color: purple;
+}
+
+.header {
+    font-family: "Garamond", "Verdanah", sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+.list {
+    font-family: "Georgia", "Verdanah", sans-serif;
+    font-weight: 300;
 }
