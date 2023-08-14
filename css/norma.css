@@ -1,0 +1,22 @@
+body {
+    background-color: cyan;
+    color: purple;
+    
+}
+
+.header {
+    text-align: center;
+}
+
+.ingred {
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.stages {
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+    border: 1px brown solid;
+}

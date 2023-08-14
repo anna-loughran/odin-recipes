@@ -1,0 +1,25 @@
+body {
+    background-color: lightgreen;
+    color: navy;
+
+}
+
+.header { 
+    text-align: center;
+
+}
+
+.ingred {
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+    border: 1px white solid;
+
+}
+
+.stages {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+
+}
